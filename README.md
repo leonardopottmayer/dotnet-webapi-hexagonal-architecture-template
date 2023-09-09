@@ -11,7 +11,7 @@ using ASP.NET Core.
 
 ## Database configuration
 
-This project access a MySQL database using the Adapter.Data project.
+This project accesses a MySQL database using the Adapter.Data project.
 A simple initial database setup is required. The SQL commands are
 located in the "database" folder.
 
